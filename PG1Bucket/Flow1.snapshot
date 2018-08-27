@@ -35,8 +35,8 @@
       "name" : "CompressContent",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : 356.0,
-        "y" : 118.0
+        "x" : 538.0,
+        "y" : 297.0
       },
       "properties" : {
         "Compression Format" : "use mime.type attribute",
